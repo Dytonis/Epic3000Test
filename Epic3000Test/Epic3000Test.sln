@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleInterface", "ConsoleInterface\ConsoleInterface.csproj", "{62500B80-BB07-453A-A18E-C04A082A9D12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "e3kdrv", "e3kdrv\e3kdrv.csproj", "{A31EB289-D0CD-4C21-9CE9-3F8D8B45423B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62500B80-BB07-453A-A18E-C04A082A9D12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62500B80-BB07-453A-A18E-C04A082A9D12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62500B80-BB07-453A-A18E-C04A082A9D12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62500B80-BB07-453A-A18E-C04A082A9D12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A31EB289-D0CD-4C21-9CE9-3F8D8B45423B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A31EB289-D0CD-4C21-9CE9-3F8D8B45423B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A31EB289-D0CD-4C21-9CE9-3F8D8B45423B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A31EB289-D0CD-4C21-9CE9-3F8D8B45423B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

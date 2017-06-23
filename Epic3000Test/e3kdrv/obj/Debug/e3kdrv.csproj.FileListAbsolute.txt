@@ -1,0 +1,7 @@
+C:\Users\tanne\Documents\GitHub\Epic3000Test\Epic3000Test\e3kdrv\bin\Debug\e3kdrv.dll
+C:\Users\tanne\Documents\GitHub\Epic3000Test\Epic3000Test\e3kdrv\bin\Debug\e3kdrv.pdb
+C:\Users\tanne\Documents\GitHub\Epic3000Test\Epic3000Test\e3kdrv\bin\Debug\AxInterop.POSPRINTERLib.dll
+C:\Users\tanne\Documents\GitHub\Epic3000Test\Epic3000Test\e3kdrv\bin\Debug\LibUsbDotNet.dll
+C:\Users\tanne\Documents\GitHub\Epic3000Test\Epic3000Test\e3kdrv\obj\Debug\e3kdrv.csprojResolveAssemblyReference.cache
+C:\Users\tanne\Documents\GitHub\Epic3000Test\Epic3000Test\e3kdrv\obj\Debug\e3kdrv.dll
+C:\Users\tanne\Documents\GitHub\Epic3000Test\Epic3000Test\e3kdrv\obj\Debug\e3kdrv.pdb

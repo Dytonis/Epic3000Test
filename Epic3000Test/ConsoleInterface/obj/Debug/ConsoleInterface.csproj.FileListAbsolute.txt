@@ -1,0 +1,9 @@
+C:\Users\tanne\Documents\GitHub\Epic3000Test\Epic3000Test\ConsoleInterface\bin\Debug\ConsoleInterface.exe.config
+C:\Users\tanne\Documents\GitHub\Epic3000Test\Epic3000Test\ConsoleInterface\bin\Debug\ConsoleInterface.exe
+C:\Users\tanne\Documents\GitHub\Epic3000Test\Epic3000Test\ConsoleInterface\bin\Debug\ConsoleInterface.pdb
+C:\Users\tanne\Documents\GitHub\Epic3000Test\Epic3000Test\ConsoleInterface\bin\Debug\LibUsbDotNet.dll
+C:\Users\tanne\Documents\GitHub\Epic3000Test\Epic3000Test\ConsoleInterface\obj\Debug\ConsoleInterface.csprojResolveAssemblyReference.cache
+C:\Users\tanne\Documents\GitHub\Epic3000Test\Epic3000Test\ConsoleInterface\obj\Debug\ConsoleInterface.exe
+C:\Users\tanne\Documents\GitHub\Epic3000Test\Epic3000Test\ConsoleInterface\obj\Debug\ConsoleInterface.pdb
+C:\Users\tanne\Documents\GitHub\Epic3000Test\Epic3000Test\ConsoleInterface\bin\Debug\e3kdrv.dll
+C:\Users\tanne\Documents\GitHub\Epic3000Test\Epic3000Test\ConsoleInterface\bin\Debug\e3kdrv.pdb
